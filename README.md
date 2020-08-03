@@ -1,0 +1,2 @@
+# qinsercmf
+qinsercmf是基于TP6+bootstrap开发的一款网站后台管理框架，强大的AUTH角色权限系统、强大的表格列表系统
